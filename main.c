@@ -7,7 +7,7 @@
 
 int main(int argc, char **agrv)
 { 
-   int x=5;
+   int a=5;
    {
       int a=3;
       printf("%d\n",a);
